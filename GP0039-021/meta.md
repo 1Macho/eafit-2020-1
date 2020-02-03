@@ -74,5 +74,3 @@ Fotocopiadora del bloque 33.
 | Lectura                       | Fecha     |
 | ----------------------------- | --------- |
 | El estado y sus instituciones | Febrero 5 |
-
-

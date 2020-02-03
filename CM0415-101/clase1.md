@@ -59,5 +59,3 @@ $$
 Sea $A$ tal que $\cup_{n=1}^{\inf} A _n=S$. Es posible construir un conjunto $B$ tal que $B_n \cap B_m = \phi, n \ne m$ y $\cup_{i=1}^{\inf} B_i = S$.
 
 Esto se logra al definir $B_n=A_n-\cup_{i=1}^{n-1}A_i$.
-
-
